@@ -96,6 +96,10 @@
      color: #404bbf;
 }
 
+.mail-phone-link:focus {
+    color:#404bbf
+}
+
 .hero {
      background: var(--navyblue);
      justify-content: center;
@@ -143,7 +147,7 @@
 
 .feature-list-p {
      color: var(--slate);
-     font-size: 16.px;
+     font-size: 16px;
      line-height: 1.5;
      letter-spacing: 0.02em;
 }
@@ -192,6 +196,14 @@
      letter-spacing: 0.02em;
 }
 
+.project-h {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
 .project-cards-ul {
     flex-wrap: wrap;
     justify-content: center;
@@ -213,8 +225,12 @@
 }
 
 .project-cards-types {
-    color: var(--slate);
+    color: #434455;
     font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
 }
 
 .logo-end {
