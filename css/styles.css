@@ -202,6 +202,7 @@
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    letter-spacing: 0.02em;
 }
 
 .project-cards-ul {
@@ -218,10 +219,11 @@
 
 .project-cards-head {
     margin-top: 32px;
-    color: var(--navyblue);
+    color: #2e2f42;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
+    font-weight: 500;
 }
 
 .project-cards-types {
@@ -230,7 +232,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
+
 }
 
 .logo-end {
