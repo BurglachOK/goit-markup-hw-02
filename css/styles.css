@@ -17,6 +17,28 @@
     background-color: var(--white);
 }
 
+.web {
+    color: var(--iris);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.2;
+    /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.studio {
+    color: var(--navyblue);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.2;
+    /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
 .logo-menu-contacts {
     display: flex;
     flex-wrap: wrap;
@@ -219,6 +241,30 @@
     text-decoration: none;
     margin-left: 156px;
     display: flex;
+}
+
+.end-web {
+    margin-top: 101.5px;
+    font-family: "Raleway";
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.16;
+    /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: var(--iris);
+}
+
+.end-studio {
+    margin-top: 101.5px;
+    font-family: "Raleway";
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.16;
+    /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: var(--cloud);
 }
 
 .end-sentence {
