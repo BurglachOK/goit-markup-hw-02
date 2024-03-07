@@ -76,11 +76,11 @@
 }
 
 .order-button:hover{
-     color: #404bbf;
+     background-color: #404bbf;
 }
 
 .order-button:focus{
-     color: #404bbf;
+     background-color: #404bbf;
 }
 
 .feature-list-head{
@@ -110,7 +110,7 @@
      color: #2e2f42;
 }
 
-.key-people-ul{
+.key-people-list{
      background-color: #ffffff;
 }
 
@@ -138,7 +138,7 @@
      color: #2e2f42;
 }
 
-.project-card-head{
+.project-cards-head{
      font-size: 500;
      font-size: 20px;
      line-height: 1.2;
@@ -146,7 +146,7 @@
      color: #2e2f42;
 }
 
-.project-card-types{
+.project-cards-types{
      font-size: 16.px;
      line-height: 1.5;
      letter-spacing: 0.02em;
